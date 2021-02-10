@@ -1,0 +1,71 @@
+*
+{
+	margin: 0;
+	padding: 0; 
+}
+#main
+{
+	background-image: url(pic.jpg);
+	background-position: center;
+	background-size: cover;
+	color: white;
+	font-size: 15pt;
+}
+#title
+{
+	font-family: Garamond,serif;
+	font-size: 40pt;
+	font-weight: bold;
+	padding: 20px 30px;
+	text-align: center;
+}
+hr
+{
+	width: 700px;
+	position: absolute;
+	left: 300px;
+}
+#img-div img
+{
+	
+	height: 500px;
+	width: 900px;
+	position: relative;
+	left: 250px;
+}
+#img-caption
+{
+	text-align: center;
+	padding: 20px 30px;
+	font-family: Garamond,serif
+	font-size: 20pt;
+}
+.bck
+{
+	background-color: #00004d;
+	position: absolute;
+	left: 250px;
+	height: 1250px;
+	width: 900px;
+	opacity: 0.7;
+
+}
+#tribute-info 
+{
+	position: relative;
+	left: 250px;
+	padding: 20px;
+	font-family: garamond,serif: 
+}
+#tribute-info li
+{
+	width: 800px;
+	list-style-type: none;
+	padding: 10px 20px;
+
+}
+a
+{
+	color: white;
+	float: right;
+}
